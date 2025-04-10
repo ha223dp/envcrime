@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EnviromentCrime",
+    "\\EnviromentCrime\\EnviromentCrime",
+    "\\EnviromentCrime\\EnviromentCrime\\Components",
+    "\\EnviromentCrime\\EnviromentCrime\\Controllers",
+    "\\EnviromentCrime\\EnviromentCrime\\Infrastructure",
+    "\\EnviromentCrime\\EnviromentCrime\\Migrations",
+    "\\EnviromentCrime\\EnviromentCrime\\Models",
+    "\\EnviromentCrime\\EnviromentCrime\\Views",
+    "\\EnviromentCrime\\EnviromentCrime\\Views\\Manager"
+  ],
+  "SelectedNode": "\\EnviromentCrime\\EnviromentCrime\\Controllers\\CoordinatorController.cs",
+  "PreviewInSolutionExplorer": false
+}
