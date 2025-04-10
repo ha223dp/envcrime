@@ -1,0 +1,133 @@
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\appsettings.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.staticwebassets.runtime.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.exe
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.deps.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.runtimeconfig.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.pdb
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.AssemblyInfoInputs.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.AssemblyInfo.cs
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.CoreCompileInputs.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.RazorAssemblyInfo.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.RazorAssemblyInfo.cs
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.EnviromentCrime.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.build.EnviromentCrime.props
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnviromentCrime.props
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnviromentCrime.props
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\scopedcss\bundle\EnviromentCrime.styles.css
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\refint\EnviromentCrime.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.pdb
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.genruntimeconfig.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\ref\EnviromentCrime.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.AssemblyReference.cache
+C:\Users\hosse\source\repos\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.CopyComplete
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\appsettings.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.staticwebassets.runtime.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.exe
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.deps.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.runtimeconfig.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\EnviromentCrime.pdb
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.AssemblyReference.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.AssemblyInfoInputs.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.AssemblyInfo.cs
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.CoreCompileInputs.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.RazorAssemblyInfo.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.RazorAssemblyInfo.cs
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.EnviromentCrime.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.build.EnviromentCrime.props
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnviromentCrime.props
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnviromentCrime.props
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\scopedcss\bundle\EnviromentCrime.styles.css
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.csproj.CopyComplete
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\refint\EnviromentCrime.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.pdb
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\EnviromentCrime.genruntimeconfig.cache
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\obj\Debug\net6.0\ref\EnviromentCrime.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hosse\OneDrive\Desktop\EnviromentCrime hoam4199 uppgift 4 (1)\EnviromentCrime\EnviromentCrime\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
