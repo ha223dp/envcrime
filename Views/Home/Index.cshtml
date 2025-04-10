@@ -1,0 +1,53 @@
+﻿
+@model Errand
+
+@{
+	Layout = "_CitizenLayout";
+}
+
+	<section id="mainColumn">
+		<h2>Välkommen att fylla i din anmälan av miljöbrott</h2>
+	
+		<p class="info">I Småstad är inga brott för små för att anmälas</p>
+
+		<p>Fyll i formuläret nedan, alla rutor markerade med stjärna (*) måste fyllas i.</p>
+
+		<form asp-controller="Citizen" asp-action="Validate">
+			<p>
+				<input type="hidden" name="isSubmitted" value="true" />
+			</p>
+			<p>
+				<label class="label" asp-for="Place"></label>
+				<span asp-validation-for="Place"></span><br />
+				<input asp-for="Place" /> *
+			</p>
+			<p>
+			<label class="label" asp-for="TypeOfCrime"></label>
+			<span asp-validation-for="TypeOfCrime"></span><br />
+			<input asp-for="TypeOfCrime" /> *
+			</p>
+			<p>
+			<label class="label" asp-for="DateOfObservation"></label>
+			<span asp-validation-for="DateOfObservation"></span><br />
+			<input asp-for="DateOfObservation" /> *
+			</p>
+			<p>
+			<label class="label" asp-for="InformerName"></label>
+			<span asp-validation-for="InformerName"></span><br />
+			<input asp-for="InformerName"/> *
+			</p>
+			<p>
+			<label class="label" asp-for="InformerPhone"></label>
+			<span asp-validation-for="InformerPhone"></span><br />
+			<input asp-for="InformerPhone" /> *
+			</p>
+			<p>
+			<label class="label" asp-for="Observation"></label>
+			<span asp-validation-for="Observation"></span><br />
+				<textarea asp-for="Observation" rows="5" cols="16"></textarea>
+			</p>
+			<p>
+				<input class="button" type="submit" value="Skicka in" />
+			</p>
+		</form>
+	</section>

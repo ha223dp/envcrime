@@ -1,0 +1,25 @@
+﻿@model Department
+@{
+	Layout = "_CoordinatorLayout";
+}
+
+	<h2>Detaljer för ärendet</h2>
+	<p class="info">Du är inloggad som samordnare</p>
+
+@await Component.InvokeAsync("ErrandDetails",ViewBag.Id)
+
+	<section id="bottomColumn">
+		<h3>Redigera ärende</h3>
+		<form asp-controller="Coordinator"asp-action="SaveDepartment" method="post">
+		<p>
+			Ange enhet:
+			<select asp-for="DepartmentId" asp-items="@(new SelectList(ViewBag.ListOfId, "DepartmentId", "DepartmentName"))">
+				<option selected disabled hidden value="">Välj</option>
+				
+		
+			</select>
+		</p>
+		<p><input class="button" type="submit" value="Spara" /></p>
+	</form>
+	</section>
+
